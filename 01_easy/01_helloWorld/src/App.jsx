@@ -9,8 +9,6 @@ function App() {
         <h1>Hello World</h1>
         <img src='hello.svg' alt='logo'/>
       </div>
-
-      <footer>&copy; Deepak Prajapati</footer>
     </div>
   )
 }
