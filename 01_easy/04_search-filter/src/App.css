@@ -1,0 +1,26 @@
+/* App.css */
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  margin: 20px;
+}
+
+input:focus {
+  border: 2px solid #339062;
+}
+
+p {
+  font-size: 1rem;
+  margin: 10px;
+}
