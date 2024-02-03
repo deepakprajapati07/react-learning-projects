@@ -1,0 +1,92 @@
+[
+    {
+        "questionText": "What is the capital of India?",
+        "answerOptions": [
+            { "answerText": "Patna", "isCorrect": false },
+            { "answerText": "New Delhi", "isCorrect": true },
+            { "answerText": "Kolkata", "isCorrect": false },
+            { "answerText": "Bangaluru", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Who is CEO of Tesla?",
+        "answerOptions": [
+            { "answerText": "Jeff Bezos", "isCorrect": false },
+            { "answerText": "Elon Musk", "isCorrect": true },
+            { "answerText": "Bill Gates", "isCorrect": false },
+            { "answerText": "Tony Stark", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "The iPhone was created by which company?",
+        "answerOptions": [
+            { "answerText": "Apple", "isCorrect": true },
+            { "answerText": "Intel", "isCorrect": false },
+            { "answerText": "Amazon", "isCorrect": false },
+            { "answerText": "Microsoft", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "How many Harry Potter books are there?",
+        "answerOptions": [
+            { "answerText": "1", "isCorrect": false },
+            { "answerText": "4", "isCorrect": false },
+            { "answerText": "6", "isCorrect": false },
+            { "answerText": "7", "isCorrect": true }
+        ]
+    },
+    {
+        "questionText": "Which planet is known as the Red Planet?",
+        "answerOptions": [
+            { "answerText": "Venus", "isCorrect": false },
+            { "answerText": "Mars", "isCorrect": true },
+            { "answerText": "Jupiter", "isCorrect": false },
+            { "answerText": "Saturn", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "In what year did the Titanic sink?",
+        "answerOptions": [
+            { "answerText": "1905", "isCorrect": false },
+            { "answerText": "1912", "isCorrect": true },
+            { "answerText": "1920", "isCorrect": false },
+            { "answerText": "1931", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Who wrote 'Romeo and Juliet'?",
+        "answerOptions": [
+            { "answerText": "Charles Dickens", "isCorrect": false },
+            { "answerText": "William Shakespeare", "isCorrect": true },
+            { "answerText": "Jane Austen", "isCorrect": false },
+            { "answerText": "Mark Twain", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What is the largest mammal on Earth?",
+        "answerOptions": [
+            { "answerText": "Elephant", "isCorrect": false },
+            { "answerText": "Blue Whale", "isCorrect": true },
+            { "answerText": "Giraffe", "isCorrect": false },
+            { "answerText": "Hippopotamus", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which gas is most abundant in the Earth's atmosphere?",
+        "answerOptions": [
+            { "answerText": "Oxygen", "isCorrect": false },
+            { "answerText": "Nitrogen", "isCorrect": true },
+            { "answerText": "Carbon Dioxide", "isCorrect": false },
+            { "answerText": "Argon", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Who painted the Mona Lisa?",
+        "answerOptions": [
+            { "answerText": "Pablo Picasso", "isCorrect": false },
+            { "answerText": "Vincent van Gogh", "isCorrect": false },
+            { "answerText": "Leonardo da Vinci", "isCorrect": true },
+            { "answerText": "Claude Monet", "isCorrect": false }
+        ]
+    }
+]
