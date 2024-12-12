@@ -1,2 +1,2 @@
 # react-learning-projects
-I am starting project based learning for React.js
+This repo contains all the projects which I have build while learning React.js
