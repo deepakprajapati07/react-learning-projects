@@ -1,0 +1,12 @@
+.customItem {
+  background-color: khaki;
+}
+
+.customSpan {
+  font-weight: 500;
+  color: orange;
+}
+
+.button {
+  float: right;
+}
